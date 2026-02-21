@@ -29,4 +29,4 @@ Simply open the `index.html` file in a web browser to start using the Expense Tr
 Feel free to enhance and customize the code to suit your preferences or integrate additional features!
 
 
-![Website Screenshot](Expense_tracker/images/screenshot.jpg)
+![Website Screenshot](Expense_Tracker/images/screenshot.jpg)
